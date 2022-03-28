@@ -13,9 +13,9 @@
 
 ### NLP Frameworks
 
-| <img src="huggingface.png" width=50> | <img src="flair.png" width=50> | <img src="simpletransformers.png" width=110> | <img src="spacy.png" width=50> | <img src="nltk.png" width=50> |
+| <img src="huggingface.png" width=50> | <img src="flair.png" width=50> | <img src="spacy.png" width=50> | <img src="nltk.png" width=50> | <img src="simpletransformers.png" width=110> |
 |:---:|:---:|:---:|:---:|:---:|
-| <a href="https://huggingface.co/">Hugging Face</a> | <a href="https://github.com/flairNLP/flair">Flair</a> | <a href="https://simpletransformers.ai/">simpletransformers</a> | <a href="https://spacy.io/">SpaCy</a> | <a href="https://www.nltk.org/">NLTK</a> |
+| <a href="https://huggingface.co/">Hugging Face</a> | <a href="https://github.com/flairNLP/flair">Flair</a> | <a href="https://spacy.io/">SpaCy</a> | <a href="https://www.nltk.org/">NLTK</a> | <a href="https://simpletransformers.ai/">simpletransformers</a> |
 
 ### Computer Vision Frameworks
 
