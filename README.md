@@ -1,11 +1,11 @@
-## About me:
+## About me
 
 - Currently studying CS at HHU in Düsseldorf, Germany
 - Working Student in NLP/language consulting
 
 <br>
 
-## Languages & Frameworks I've worked with:
+## Languages & Frameworks I've worked with
 
 #### Programming/Markup/Style Sheet/Query Languages
 
