@@ -1,7 +1,7 @@
 ## About me
 
-- Currently studying CS at HHU in Düsseldorf, Germany
-- Working Student in NLP/language consulting
+- M.Sc. in Computer Science at HHU in Düsseldorf, Germany
+- Currently working in NLP consulting
 
 <br>
 
